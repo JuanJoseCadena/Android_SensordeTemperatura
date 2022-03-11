@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sensor de Temperatura</string>
+    <string name="title">Temperatura</string>
+    <string name="Celsius">Grados Celsius (°C)</string>
+    <string name="Fahrenheit">Grados Fahrenheit (°F)</string>
+    <string name="Kelvin">Grados Kelvin (°K)</string>
+</resources>
